@@ -1,0 +1,21 @@
+InHomeServices Privacy Policy
+-------------------------------------
+
+InHomeServices allows services to register its service and offer it to customers, in a form
+of a yellow pages app. Service enters its type, address, price-list and location. 
+Customers find services by entering their location and category.
+Everything is free, for both customer and service.
+
+Does this app use any personal information?
+It can take user's location but it's not mandatory. User can enter its location manually.
+
+Does this app store any personal information?
+It stores data that service enters in registration process only on server side.
+App does not store anything locally. 
+
+What User Data We Collect?
+None.
+
+Contact Us
+If you have any questions or suggestions about this privacy policy, 
+do not hesitate to contact me at jelenaaa.popovic@gmail.com
